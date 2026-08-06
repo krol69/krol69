@@ -1,79 +1,70 @@
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    ZAUFANY  ·  Zaufanys                       ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+
+# Micheal Wolski
+
+### Automotive Cybersecurity · Embedded Software · Product Security
+
+Michigan-based early-career cybersecurity professional with Bosch Mobility experience supporting product-security workflows, secure-boot research, technical documentation, and cross-functional engineering teams.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-111827?style=for-the-badge&logo=googlechrome&logoColor=63E6FF)](https://zaufanys.github.io/michealswolski.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=63E6FF)](https://www.linkedin.com/in/michealwolski)
+[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=63E6FF)](mailto:michealswolski@gmail.com)
+
+</div>
+
+---
+
+## About
+
+- Former **Product Cybersecurity Intern** with **Bosch Mobility’s M/TEL-AM team**
+- Interested in automotive product security, embedded software, vehicle communications, and security automation
+- Comfortable translating technical information into clear documentation, dashboards, and stakeholder-ready materials
+- Committed to continuous learning, clear communication, collaboration, and helping the people around me succeed
+
+## Selected Work
+
+### Product Security Intake & Reporting
+Public-safe case study based on internship workflow experience involving structured intake, data validation, status tracking, approvals, notifications, and reporting.
+
+`Power Apps` `Dataverse` `Power Automate` `Power BI` `SharePoint` `SQL`
+
+### CAN/OBD-II Vehicle Network Monitor
+Academic prototype for monitoring vehicle data, logging messages, and presenting results through a Flask dashboard for vehicle-network security analysis.
+
+`Python` `Flask` `SQLite` `Raspberry Pi` `OBD-II` `CAN`
+
+### Secure Boot Research
+Research on HSM, key management, OTA/software-download concepts, attestation, anti-rollback, hardware variability, and boot-time constraints in automotive controllers.
+
+`Secure Boot` `HSM` `KMS` `OTA/SWDL` `ISO/SAE 21434`
+
+## Technical Foundation
+
+**Embedded & Automotive**  
+`C` `C++` `Python` `CAN/CAN FD` `UDS` `OBD-II` `DCM/DEM` `ECU architecture` `Bootloader concepts`
+
+**Cybersecurity**  
+`Product security` `Secure boot` `Wireshark` `Splunk` `Nessus` `Nmap` `Linux` `ISO/SAE 21434 familiarity`
+
+**Data & Automation**  
+`Power BI` `Power Apps` `Dataverse` `Power Automate` `SQL/SQLite` `Flask` `Git/GitHub`
+
+## Education
+
+**B.S. Information Assurance & Cyber Defense, Cum Laude**  
+Eastern Michigan University · 2026 · GPA 3.66
+
+**A.A.S. Cybersecurity**  
+Henry Ford College · May 2023 · GPA 3.90 · Dean’s List
+
+## Professional Development
+
+Auto-ISAC Summit 2026 · IQPC Automotive Cybersecurity 2026 · Secure boot SME research · Bosch Cybersecurity Fire Drill game master · Internal CTF and AI hackathon participation
+
+---
 
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Zaufany — Reverse Engineer · Security Researcher · Embedded" />
-
-<img src="./assets/ticker.svg" width="100%" alt="reverse engineering · firmware · can bus · exploit dev · embedded" />
-
-<br/><br/>
-
-<img src="./assets/bento.svg" width="100%" alt="About — Breaking things to understand them." />
-
-<br/><br/>
-
-<img src="./assets/modules.svg" width="100%" alt="output · signal · momentum" />
-
-<br/><br/>
-
-<img src="./assets/terminal.svg" width="100%" alt="recon.sh" />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br/>
-
-<sub><b>&nbsp; S &nbsp; T &nbsp; A &nbsp; C &nbsp; K &nbsp;</b></sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Ghidra-08080B?style=for-the-badge&logo=ghidra&logoColor=C9C9CF" alt="Ghidra" />
-<img src="https://img.shields.io/badge/IDA_Pro-08080B?style=for-the-badge&logoColor=C9C9CF" alt="IDA Pro" />
-<img src="https://img.shields.io/badge/radare2-08080B?style=for-the-badge&logoColor=C9C9CF" alt="radare2" />
-<img src="https://img.shields.io/badge/Frida-08080B?style=for-the-badge&logoColor=C9C9CF" alt="Frida" />
-<img src="https://img.shields.io/badge/QEMU-08080B?style=for-the-badge&logo=qemu&logoColor=C9C9CF" alt="QEMU" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/C-08080B?style=for-the-badge&logo=c&logoColor=C9C9CF" alt="C" />
-<img src="https://img.shields.io/badge/C++-08080B?style=for-the-badge&logo=cplusplus&logoColor=C9C9CF" alt="C++" />
-<img src="https://img.shields.io/badge/Rust-08080B?style=for-the-badge&logo=rust&logoColor=C9C9CF" alt="Rust" />
-<img src="https://img.shields.io/badge/Assembly-08080B?style=for-the-badge&logoColor=C9C9CF" alt="Assembly" />
-<img src="https://img.shields.io/badge/Python-08080B?style=for-the-badge&logo=python&logoColor=C9C9CF" alt="Python" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Kali-08080B?style=for-the-badge&logo=kalilinux&logoColor=C9C9CF" alt="Kali" />
-<img src="https://img.shields.io/badge/Linux-08080B?style=for-the-badge&logo=linux&logoColor=C9C9CF" alt="Linux" />
-<img src="https://img.shields.io/badge/Docker-08080B?style=for-the-badge&logo=docker&logoColor=C9C9CF" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-08080B?style=for-the-badge&logo=git&logoColor=C9C9CF" alt="Git" />
-
-<br/><br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<br/>
-
-<sub><b>&nbsp; C &nbsp; O &nbsp; N &nbsp; N &nbsp; E &nbsp; C &nbsp; T &nbsp;</b></sub>
-
-<br/><br/>
-
-<a href="https://github.com/Zaufanys">
-  <img src="https://img.shields.io/badge/GitHub-08080B?style=for-the-badge&logo=github&logoColor=C9C9CF" alt="GitHub" />
-</a>
-
-<br/><br/>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaufanys/Zaufanys/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaufanys/Zaufanys/output/github-snake.svg" />
-  <img alt="contribution grid" src="https://raw.githubusercontent.com/Zaufanys/Zaufanys/output/github-snake.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<sub><i>trust is earned, never granted.</i></sub>
+*Learning continuously. Communicating clearly. Building practical security solutions.*
 
 </div>
